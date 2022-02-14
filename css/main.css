@@ -1,7 +1,7 @@
 h1 {
     color: rgb(161, 4, 4);
     background: rgb(218, 216, 216);
-}
+    }
 ul {
     background: #009ec3;
     background: radial-gradient(circle closest-corner at 40px 30px, #fff, #009ec3);
