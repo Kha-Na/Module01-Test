@@ -59,3 +59,12 @@ footer {
     font-size: 13px;
     padding: 0px 20px;
 }
+.link {
+    background: rebeccapurple;
+    color: white;
+    padding: 8px 15px;
+    margin-left: 10px;
+}
+.nav li:last-child {
+    margin-right: 0px;
+}
